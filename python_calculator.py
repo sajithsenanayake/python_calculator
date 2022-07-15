@@ -60,7 +60,7 @@ def select_op(choice):
             except:
                 print("Not a valid number,please enter again")
                 continue
-
+#take input
         while True:
                 num2s = str(input("Enter second number: "))
                 print(num2s)
