@@ -74,7 +74,7 @@ def select_op(choice):
                 except:
                     print("Not a valid number,please enter again")
                     continue
-
+ 
         result = 0.0
         last_calculation = ""
         if choice == '+':
