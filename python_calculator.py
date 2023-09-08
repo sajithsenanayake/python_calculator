@@ -1,4 +1,4 @@
-
+ 
 past_calculations = [] #list for history
 
 #functions for operators
